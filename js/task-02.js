@@ -6,4 +6,4 @@ for (let i = 0; i < ingredients.length; i += 1) {
   li.setAttribute('class', 'item');
   ingredientsList.append(li);
 }
-document.ul.append(ingredientsList);
+document.ul.ingredients.append(ingredientsList);
